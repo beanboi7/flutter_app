@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947299353027",
+    "project_id": "heartfulness-fb168",
+    "storage_bucket": "heartfulness-fb168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947299353027:android:c6841837d47d1aa5c8bd76",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947299353027-ijoh053siisotpq3atp3aik18u5c5uio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop_app",
+            "certificate_hash": "d2fe1009279c2d97cc6cfe01b74773c69d94e87d"
+          }
+        },
+        {
+          "client_id": "947299353027-stp6u2vndp6r4mk6kkqg10d2cgmq4mrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABssWa87pO9GcSqMp9NlTp48bXDqlEQpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947299353027-stp6u2vndp6r4mk6kkqg10d2cgmq4mrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
